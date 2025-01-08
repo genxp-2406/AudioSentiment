@@ -1,8 +1,6 @@
 ipykernel
 ipywidgets
-matplotlib
 xlrd
 pandas
-scikit-learn
 torch
 transformers
